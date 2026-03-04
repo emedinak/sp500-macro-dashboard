@@ -47,6 +47,9 @@ The dataset combines historical financial and macroeconomic indicators:
 - 10Y Treasury yield
 - Federal funds rate
 
+## Time Range
+1990 – Present
+
 ## Data Source
 
 This project uses historical financial and macroeconomic data from the following dataset:
@@ -69,6 +72,3 @@ The dataset includes historical market data and macroeconomic indicators such as
 
 This project is for educational and analytical purposes only.  
 Data belongs to the original dataset creators on Kaggle.
-
-Time range:
-1990 – Present
