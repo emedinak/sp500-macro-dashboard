@@ -10,9 +10,9 @@ This project analyzes the relationship between the U.S. stock market and key mac
 
 The dashboard explores how volatility, interest rates, unemployment, and inflation interact with market performance.
 
-Dashboard Preview
+## Dashboard Preview
 
-Key Insights
+## Key Insights
 
 1. Long-term market growth
 
@@ -30,14 +30,14 @@ Interest rates and unemployment show relatively weak relationships with daily ma
 
 U.S. inflation has steadily increased over time, with a clear acceleration after 2020.
 
-Tools Used
+## Tools Used
 - Python
 - Pandas
 - Tableau
 - Data visualization
 - Financial data analysis
 
-Dataset
+## Dataset
 The dataset combines historical financial and macroeconomic indicators:
 
 - S&P 500 index
@@ -64,6 +64,11 @@ The dataset includes historical market data and macroeconomic indicators such as
 - Unemployment rate
 - Treasury yields
 - Federal funds rate
+
+## Disclaimer
+
+This project is for educational and analytical purposes only.  
+Data belongs to the original dataset creators on Kaggle.
 
 Time range:
 1990 – Present
