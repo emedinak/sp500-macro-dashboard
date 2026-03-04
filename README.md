@@ -47,5 +47,23 @@ The dataset combines historical financial and macroeconomic indicators:
 - 10Y Treasury yield
 - Federal funds rate
 
+## Data Source
+
+This project uses historical financial and macroeconomic data from the following dataset:
+
+S&P 500 Complete Historical Dataset (50+ Years)
+
+Source: Kaggle  
+https://www.kaggle.com/datasets/samyakrajbajyar/s-and-p-500-complete-historical-dataset-50-years
+
+The dataset includes historical market data and macroeconomic indicators such as:
+
+- S&P 500 index prices
+- VIX volatility index
+- U.S. inflation (CPI)
+- Unemployment rate
+- Treasury yields
+- Federal funds rate
+
 Time range:
 1990 – Present
