@@ -25,33 +25,21 @@ Interest rates and unemployment show relatively weak relationships with daily ma
 U.S. inflation has steadily increased over time, with a clear acceleration after 2020.
 
 Tools Used
-
-Python
-
-Pandas
-
-Tableau
-
-Data visualization
-
-Financial data analysis
+- Python
+- Pandas
+- Tableau
+- Data visualization
+- Financial data analysis
 
 Dataset
-
 The dataset combines historical financial and macroeconomic indicators:
 
-S&P 500 index
-
-VIX volatility index
-
-US inflation (CPI)
-
-Unemployment rate
-
-10Y Treasury yield
-
-Federal funds rate
+- S&P 500 index
+- VIX volatility index
+- US inflation (CPI)
+- Unemployment rate
+- 10Y Treasury yield
+- Federal funds rate
 
 Time range:
-
 1990 – Present
