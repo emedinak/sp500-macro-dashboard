@@ -1,4 +1,6 @@
-S&P 500 & Macroeconomic Indicators Dashboard
+# S&P 500 & Macroeconomic Indicators Dashboard
+
+![Dashboard](images/dashboard.png)
 
 This project analyzes the relationship between the U.S. stock market and key macroeconomic indicators using data visualization and exploratory data analysis.
 
