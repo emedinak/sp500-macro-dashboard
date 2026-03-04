@@ -1,5 +1,9 @@
 # S&P 500 & Macroeconomic Indicators Dashboard
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green)
+
 ![Dashboard](images/dashboard.png)
 
 This project analyzes the relationship between the U.S. stock market and key macroeconomic indicators using data visualization and exploratory data analysis.
